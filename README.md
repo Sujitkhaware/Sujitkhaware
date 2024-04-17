@@ -1,6 +1,6 @@
 🌱 I’m currently learning Selenium with JAVA
 
-📫 How to reach me : email - sujitkhaware2@gmail.com, Contact - 7045666525
+📫 How to reach me : email - sujitkhaware2@gmail.com
 
 Welcome to my GitHub profile! Here, you'll find a collection of repositories showcasing my projects and contributions across various domains. Let me walk you through what you'll discover:
 
